@@ -7,6 +7,6 @@
         * decode
         * decode DPCM
     * QM encoder
-        * encode gray level image by bit-plane
-        * encode gray level image with gray code by bit-plane
+        * encode gray level image using bit-plane
+        * encode gray level image with gray code using bit-plane
         * encode binary image
