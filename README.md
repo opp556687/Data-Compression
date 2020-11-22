@@ -1,6 +1,6 @@
 # Data-Compression
  NCU Data Compression homework
-* in the repoistory implement two kind algorithm
+* in the repoistory implement two encode method
     * Huffman
         * encode with original data
         * encode with DPCM
