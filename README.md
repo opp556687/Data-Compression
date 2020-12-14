@@ -1,6 +1,6 @@
 # Data-Compression
  NCU Data Compression homework
-* in the repoistory implement two encode method
+* two encoder in the repository
     * Huffman
         * encode with original data
         * encode with DPCM
